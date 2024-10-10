@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <item id="1">
+        <nombre>Inicio</nombre>
+        <enlace>/inicio</enlace>
+        <icono>🏠</icono>
+    </item>
+    <item id="2">
+        <nombre>Sobre Nosotros</nombre>
+        <enlace>/sobre-nosotros</enlace>
+        <icono>ℹ️</icono>
+    </item>
+    <item id="3">
+        <nombre>Servicios</nombre>
+        <enlace>/servicios</enlace>
+        <icono>🛠️</icono>
+    </item>
+    <item id="4">
+        <nombre>Contacto</nombre>
+        <enlace>/contacto</enlace>
+        <icono>📞</icono>
+    </item>
+</menu>
